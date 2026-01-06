@@ -1,7 +1,7 @@
 # Lab10Web
-Nama: Den Fahmi Satria
-Nim: 312410523
-Kelas: TI.24.A5
+Nama: Den Fahmi Satria <p>
+Nim: 312410523 <p>
+Kelas: TI.24.A5 <p>
 
 # Praktikum 10 – PHP OOP (Object Oriented Programming)
 
