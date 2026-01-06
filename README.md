@@ -53,9 +53,9 @@ lab10_php_oop/
 ## Penjelasan Implementasi
 
 ### 1. Class Database
-Class **Database** digunakan sebagai **library koneksi database** dan pengelolaan query.  
-Class ini menangani operasi CRUD (Create, Read, Update, Delete) menggunakan metode OOP, sehingga halaman lain tidak perlu menulis ulang kode koneksi database.
-<img src="web8/xampp.PNG" width="700"> <p>
+Class **Database** digunakan sebagai **library koneksi database** dan pengelolaan query.  <p>
+Class ini menangani operasi CRUD (Create, Read, Update, Delete) menggunakan metode OOP, sehingga halaman lain tidak perlu menulis ulang kode koneksi database. <p>
+<img src="web10/database.PNG" width="700"> <p>
 ### 2. Class Form
 Class **Form** digunakan sebagai **library pembuatan form**.  
 Dengan class ini, form input dapat dibuat secara dinamis dan lebih terstruktur tanpa menuliskan HTML form berulang kali di setiap halaman.
