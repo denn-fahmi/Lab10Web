@@ -59,19 +59,19 @@ Class ini menangani operasi CRUD (Create, Read, Update, Delete) menggunakan meto
 ### 2. Class Form
 Class **Form** digunakan sebagai **library pembuatan form**.  
 Dengan class ini, form input dapat dibuat secara dinamis dan lebih terstruktur tanpa menuliskan HTML form berulang kali di setiap halaman.
-<img src="web10/database.PNG" width="700"> <p>
+<img src="web10/form.PNG" width="700"> <p>
 ### 3. Routing dan Template
 Routing tetap menggunakan **index.php** sebagai pengatur halaman dengan parameter **page**.  
 Tampilan halaman dimodularisasi menggunakan **header.php** dan **footer.php** sehingga seluruh halaman memiliki tampilan yang konsisten.
-<img src="web10/database.PNG" width="700"> <p>
+<img src="web10/indexx.PNG" width="700"> <p>
 ### 4. Halaman List Data
 File `list.php` digunakan untuk menampilkan data barang dari database.  
 Data diambil menggunakan object dari class `Database`.
-<img src="web10/database.PNG" width="700"> <p>
+<img src="web10/list.PNG" width="700"> <p>
 ### 5. Halaman Tambah Data
 File `tambah.php** digunakan untuk menambahkan data barang baru.  
 Form input dibuat menggunakan class **Form**, dan proses penyimpanan data menggunakan class **Database**.
-<img src="web10/database.PNG" width="700"> <p>
+<img src="web10/tambah.PNG" width="700"> <p>
 ### 6. Halaman Ubah Data
 File **ubah.php** digunakan untuk mengubah data barang yang sudah ada berdasarkan ID.  
 Data lama ditampilkan kembali di form untuk diedit.
